@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I’m Junior
 
-<!--
-**codexgamerr/codexgamerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Remembrance](https://tenor.com/xh3Q.gif)
 
-Here are some ideas to get you started:
+# About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Xgmerjunior](https://img.shields.io/github/followers/xgmerjunior?label=follow&style=social)](https://github.com/xgmerjunior)
+<br/>
+[![Youtube Xgmerjunior](https://img.shields.io/youtube/channel/subscribers/UC3tFBUe67HoRrSwphNHIyng?style=social)](https://www.youtube.com/channel/UC3tFBUe67HoRrSwphNHIyng)
+
+```cpp
+int main() {
+    std::cout << "Hello World!\n"; // std::endl =)
+    return 0;
+}
+```
